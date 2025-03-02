@@ -76,13 +76,14 @@ export default function Weather() {
         </main>
         <footer>
           This project was coded by
-          <a href="https://github.com/Anneth6" target="_blank">
+          <a href="https://github.com/Anneth6" target="_blank" rel="noreferrer">
             Ann Russell
           </a>
           , is open-sourced on
           <a
             href="https://github.com/Anneth6/Anneth-Weather-and-Forecast-Project"
             target="_blank"
+            rel="noreferrer"
           >
             GitHub
           </a>
@@ -90,6 +91,7 @@ export default function Weather() {
           <a
             href="https://main--anneth-weather-plus-forecast.netlify.app/"
             target="_blank"
+            rel="noreferrer"
           >
             Netlify
           </a>
